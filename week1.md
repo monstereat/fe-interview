@@ -10,7 +10,6 @@ javaScrit 面向对象，c面向过程。
 | 变量的数据类型无需声明（动态化类型）。                       | 变量的数据类型必需声明（静态化类型）。                       |
 | 不能自动地写入硬盘                                           | 不能自动地写入硬盘                                           |
 
-
 2. 原始类型有哪几种？null 是对象嘛？
 
 null,undefined,number,bolean,string ,bigint,symble。
